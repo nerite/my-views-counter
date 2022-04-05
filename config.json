@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "SDA_final_project",
+    "QA_Selenium",
+    "PracticeJavaSelenium",
+    "POMWhithMavenAndJenkins",
+    "Postman_first_collection",
+    "Learning_git"
   ]
 }
