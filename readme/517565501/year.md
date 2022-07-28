@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/nerite/my-views-counter)
 
-### :octocat: [Learning_git](https://github.com/nerite/Learning_git)
-![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/graph/407146012/large/year.png)
+### :octocat: [TABootcampJavaPart](https://github.com/nerite/TABootcampJavaPart)
+![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/graph/517565501/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/7/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>13</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>96</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/28 12:14 PM UTC</i></small>
+<small><i>Last updated on 2022/7/28 12:13 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/407146012/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/407146012/week.md)
+[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/517565501/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/517565501/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/407146012/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/407146012/week.md)
+[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/517565501/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/517565501/week.md)
 ```
 ### Header
-# Learning_git [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/407146012/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/407146012/year.md)
+# TABootcampJavaPart [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/517565501/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/517565501/year.md)
 ```readme
-# Learning_git [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/407146012/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/407146012/year.md)
+# TABootcampJavaPart [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/517565501/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/517565501/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
