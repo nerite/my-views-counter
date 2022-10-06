@@ -131,9 +131,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/nerite/my-views-counter/raw/master/graph/407146012/small/year.png" height="20"> 16
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/nerite/my-views-counter/tree/master/readme/545485979/year.md">
+				DemoShop
+			</a>
+		</td>
+		<td>
+			2022/10/3 12:14 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/nerite/my-views-counter/raw/master/graph/545485979/small/year.png" height="20"> 24
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/6 6:16 AM UTC</i></small>
+<small><i>Last updated on 2022/10/6 12:14 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

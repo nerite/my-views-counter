@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/nerite/my-views-counter)
 
-### :octocat: [QA_Selenium](https://github.com/nerite/QA_Selenium)
-![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/graph/437118261/large/year.png)
+### :octocat: [DemoShop](https://github.com/nerite/DemoShop)
+![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/graph/545485979/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>4</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>24</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>184</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/10/6 12:13 PM UTC</i></small>
+<small><i>Last updated on 2022/10/6 12:14 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/437118261/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/437118261/week.md)
+[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/545485979/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/545485979/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/437118261/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/437118261/week.md)
+[![Image of my-views-counter](https://github.com/nerite/my-views-counter/blob/master/svg/545485979/badge.svg)](https://github.com/nerite/my-views-counter/blob/master/readme/545485979/week.md)
 ```
 ### Header
-# QA_Selenium [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/437118261/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/437118261/year.md)
+# DemoShop [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/545485979/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/545485979/year.md)
 ```readme
-# QA_Selenium [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/437118261/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/437118261/year.md)
+# DemoShop [<img alt="Image of my-views-counter" src="https://github.com/nerite/my-views-counter/blob/master/graph/545485979/small/year.png" height="20">](https://github.com/nerite/my-views-counter/blob/master/readme/545485979/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
